@@ -6,3 +6,6 @@ Windows notification in python
 * `pip install winotify`
 
 `python main.py`
+
+<h2>Output:</h2>
+<img src="https://i.imgur.com/RbREKjT.png">
